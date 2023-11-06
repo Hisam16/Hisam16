@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Youtube-Clone<br>👯 I’m looking to collaborate on front-end projects<br>🤝 I’m looking for help with learning MERN<br>🌱 I’m currently learning MERN
+🔭 I'm currently working on Front-end projects <br>👯 I’m looking to collaborate on front-end projects<br>🤝 I’m looking for help with learning MERN<br>🌱 I’m currently learning MERN
 
 
 ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammed-hisam-87647723a/) 
